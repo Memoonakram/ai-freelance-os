@@ -1,0 +1,7 @@
+# Ignore secrets and environments
+.streamlit/secrets.toml
+venv/
+.venv/
+__pycache__/
+.idea/
+*.pyc
