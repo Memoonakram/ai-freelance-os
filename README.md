@@ -4,7 +4,7 @@ An end-to-end intelligent automation system designed for high-ticket AI freelanc
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 * **Frontend:** Streamlit
 * **AI Engine:** Google Gemini API (`google-genai`)
@@ -13,7 +13,7 @@ An end-to-end intelligent automation system designed for high-ticket AI freelanc
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Automated Proposal & Scope Generation:** Transforms raw client briefs into structured execution proposals.
 * **Milestone Breakdown Engine:** Automatically extracts step-by-step deliverable milestones.
